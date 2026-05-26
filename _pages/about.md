@@ -51,5 +51,5 @@ None yet.
 - *2018.09 - 2022.06*, B.S. degree in Computer Science and Technology, Zhejiang University of Finance and Economics.
 
 # 💻 Academic Activities
-- Conference Program Committee: NeurIPS / AAAI / IJCAI /
+- Conference Program Committee: NeurIPS / AAAI / IJCAI / ICME
 - Journal Reviewer: Pattern Recognition / Information Fusion / IEEE Journal of Biomedical and Health Informatics
