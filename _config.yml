@@ -24,7 +24,7 @@ author:
   name : "Qihao Xu"
   location : "Shenzhen, China"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Harbin Institute of Technology (Shenzhen)"
+  bio              : #"Harbin Institute of Technology (Shenzhen)"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=y4MVyeEAAAAJ&hl=zh-CN"
