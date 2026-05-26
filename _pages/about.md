@@ -17,42 +17,113 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+# About Me
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I am **Qihao Xu**, currently affiliated with **Harbin Institute of Technology (Shenzhen)**. My research interests mainly include **computer vision**, **medical image analysis**, **interpretable artificial intelligence**, and **trustworthy machine learning**.
+
+My recent research focuses on developing explainable and reliable AI systems for medical image diagnosis. In particular, I am interested in **concept bottleneck models**, **multi-view medical image understanding**, **vision-language-guided reasoning**, **uncertainty-aware diagnosis**, and **hyperbolic representation learning**. The goal of my research is to build AI models that are not only accurate but also transparent, clinically meaningful, and easy for human experts to verify and intervene.
+
+I am especially interested in interpretable diagnosis for ophthalmic and dermatological images, including diabetic retinopathy grading, lesion-concept prediction, and concept-based medical decision-making.
+
+Google Scholar: 
+<a href='https://scholar.google.com/citations?user=y4MVyeEAAAAJ&hl=zh-CN'>Google Scholar Profile</a>
+<a href='https://scholar.google.com/citations?user=y4MVyeEAAAAJ&hl=zh-CN'>
+<img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations">
+</a>
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+- *2026.05*: &nbsp;🎉 Our work on interpretable multi-view diabetic retinopathy diagnosis is under active development.
+- *2026.05*: &nbsp;🎉 I am maintaining this personal homepage to share my research, publications, and academic activities.
+- *2026.04*: &nbsp;🎉 Our recent research focuses on concept-based reasoning, uncertainty-aware fusion, and trustworthy medical AI.
+
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+## Selected Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Medical AI</div><img src='images/500x300.png' alt="ProConMV" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[ProConMV: Provenance-Enabled Conceptual Framework for Interpretable Multi-View Diabetic Retinopathy Diagnosis](#)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Qihao Xu**, et al.
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Paper**](#) | [**Code**](#) | [**Project**](#)
+
+- We propose an interpretable multi-view diabetic retinopathy diagnosis framework that integrates multi-view fundus images, lesion masks, clinical text priors, concept-based reasoning, physician intervention, and dual-uncertainty fusion.
+- The model aims to provide a transparent diagnostic chain from medical images to lesion concepts and final disease grading.
+
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Explainable AI</div><img src='images/500x300.png' alt="HCEM" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Hyperbolic Concept Embedding Model for Interpretable Medical Image Diagnosis](#)
+
+**Qihao Xu**, et al.
+
+[**Paper**](#) | [**Code**](#) | [**Project**](#)
+
+- We explore hyperbolic representation learning for concept-based medical image diagnosis.
+- The model embeds medical concepts and diseases into hyperbolic space to better capture hierarchical and semantic relationships among clinical concepts.
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Vision-Language Reasoning</div><img src='images/500x300.png' alt="VLM-GCR" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Vision-Language-Guided Graph Conceptual Reasoning for Medical Image Diagnosis](#)
+
+**Qihao Xu**, et al.
+
+[**Paper**](#) | [**Code**](#) | [**Project**](#)
+
+- We investigate vision-language-guided concept graph reasoning for medical image diagnosis.
+- The method aims to combine visual evidence, clinical concepts, and graph-structured medical knowledge for more interpretable predictions.
+
+</div>
+</div>
+
+
+## Other Publications
+
+- [Title of Your Paper](#), **Qihao Xu**, Author B, Author C, *Conference/Journal*, Year.
+- [Title of Your Paper](#), Author A, **Qihao Xu**, Author C, *Conference/Journal*, Year.
+- [Title of Your Paper](#), Author A, Author B, **Qihao Xu**, *Conference/Journal*, Year.
+
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2026*: To be updated.
+- *2025*: To be updated.
+- *2024*: To be updated.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 📖 Education
+
+- *Present*, Harbin Institute of Technology (Shenzhen), Shenzhen, China.
+- Research area: Computer Vision, Medical Image Analysis, and Interpretable Artificial Intelligence.
+
+
+# 💬 Academic Services
+
+- Reviewer for conferences and journals in computer vision, medical image analysis, and artificial intelligence.
+- Research topics include interpretable medical AI, concept-based learning, multi-view diagnosis, uncertainty estimation, and trustworthy machine learning.
+
+
+# 💻 Research Interests
+
+- Interpretable Artificial Intelligence
+- Medical Image Analysis
+- Concept Bottleneck Models
+- Multi-view Medical Diagnosis
+- Vision-Language Medical Reasoning
+- Hyperbolic Representation Learning
+- Uncertainty-Aware Deep Learning
+- Trustworthy Machine Learning
