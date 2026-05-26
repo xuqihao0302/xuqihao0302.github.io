@@ -52,7 +52,7 @@ None yet.
 
 # 💼 Internships
 
-- *2024.05 - 2024.11*, Research Intern, Baidu.  Focused on semi-supervised object detection algorithms.
+- *2024.05 - 2024.11*, Research Intern, **Baidu**.  Focused on semi-supervised object detection algorithms.
 
 # 💻 Academic Activities
 - Conference Program Committee: NeurIPS / AAAI / IJCAI / ICME
