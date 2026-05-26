@@ -7,7 +7,7 @@
 
 # Site Settings
 title : "Qihao Xu"
-description : "He is currently pursuing a Ph.D. in Computer Science at Harbin Institute of Technology, Shenzhen"
+description : #"He is currently pursuing a Ph.D. in Computer Science at Harbin Institute of Technology, Shenzhen"
 repository : "xuqihao0302/xuqihao0302.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,7 +24,7 @@ author:
   name : "Qihao Xu"
   location : "Shenzhen, China"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : #"Harbin Institute of Technology (Shenzhen)"
+  bio              : "He is currently pursuing a Ph.D. in Computer Science at Harbin Institute of Technology, Shenzhen."
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=y4MVyeEAAAAJ&hl=zh-CN"
