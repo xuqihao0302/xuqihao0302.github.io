@@ -50,6 +50,10 @@ None yet.
   Supervisor: [Prof. Yong Xu](https://homepage.hit.edu.cn/xuyong).
 - *2018.09 - 2022.06*, B.S. degree in Computer Science and Technology, Zhejiang University of Finance and Economics.
 
+# 💼 Internships
+
+- *2024.05 - 2024.11*, Research Intern, Baidu.  Focused on semi-supervised object detection algorithms.
+
 # 💻 Academic Activities
 - Conference Program Committee: NeurIPS / AAAI / IJCAI / ICME
 - Journal Reviewer: Pattern Recognition / Information Fusion / IEEE Journal of Biomedical and Health Informatics
