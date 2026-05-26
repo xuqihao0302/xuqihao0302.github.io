@@ -28,7 +28,6 @@ I am Qihao Xu, from Ningbo, Zhejiang. I received my B.S. degree in Computer Scie
 
 # 📖 Educations
 - *2025.09 - Present*, Ph.D. student in Computer Science, Harbin Institute of Technology, Shenzhen.  
-  Supervisor: [Prof. Yong Xu](https://homepage.hit.edu.cn/xuyong).
 - *2022.09 - 2025.06*, M.S. degree in Computer Science, Harbin Institute of Technology, Shenzhen.
   Supervisor: [Prof. Yong Xu](https://homepage.hit.edu.cn/xuyong).
 - *2018.09 - 2022.06*, B.S. degree in Computer Science and Technology, Zhejiang University of Finance and Economics.
