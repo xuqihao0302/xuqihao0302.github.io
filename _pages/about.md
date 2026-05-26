@@ -20,7 +20,26 @@ redirect_from:
 I am Qihao Xu, from Ningbo, Zhejiang. I received my B.S. degree in Computer Science and Technology from Zhejiang University of Finance and Economics in 2022, and my M.S. degree in Computer Science from Harbin Institute of Technology, Shenzhen in 2025. I am currently a Ph.D. student in Computer Science at Harbin Institute of Technology, Shenzhen, supervised by [Prof. Yong Xu](https://homepage.hit.edu.cn/xuyong). My research interests include medical image analysis, explainable learning, and multimodal learning.
 
 # 📝 Publications 
-- [Qihao Xu dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+
+## Selected Publications
+- ProConMV: Provenance-Enabled Conceptual Framework for Interpretable Multi-View Diabetic Retinopathy Diagnosis, Xiaoling Luo, Shuo Yang, **Qihao Xu(Corresponding Author)**, Jiansong Zhang, Zhuoqin Yang, Zhihui Lai, Linlin Shen, Chengliang Liu, **ICML 2026**
+  
+- [Vision-Language Models Guided Graph Concept Reasoning for Interpretable Diabetic Retinopathy Diagnosis](https://ojs.aaai.org/index.php/AAAI/article/view/39948), **Qihao Xu**, Xiaoling Luo, Yuxin Lin, Chengliang Liu, Yongting Hu, Jinkai Li, Xinheng Lyu, Yong Xu, **AAAI 2026**
+  
+- [HACDR-Net: Heterogeneous-Aware Convolutional Network for Diabetic Retinopathy Multi-Lesion Segmentation](https://ojs.aaai.org/index.php/AAAI/article/view/28453), **Qihao Xu**, Xiaoling Luo, Chao Huang, Chengliang Liu, Jie Wen, Jialei Wang, Yong Xu, **AAAI 2024**
+
+## Other Publications
+- [Frequency-Aligned Cross-Modal Learning with Top-K Wavelet Fusion and Dynamic Expert Routing for Enhanced Retinal Disease Diagnosis](https://ojs.aaai.org/index.php/AAAI/article/view/37635), Yuxin Lin, Haoran Li, Haoyu Cao, Yongting Hu, **Qihao Xu**, Chengliang Liu, Xiaoling Luo, Zhihao Wu, Yong Xu, Wei Wang, **AAAI 2026**
+
+- [Towards Zero-Shot Diabetic Retinopathy Grading: Learning Generalized Knowledge via Prompt-Driven Matching and Emulating](https://ojs.aaai.org/index.php/AAAI/article/view/37948), Huan Wang, Haoran Li, Yuxin Lin, Huaming Chen, Jun Yan, Lijuan Wang, Jiahua Shi, **Qihao Xu**, Yongting Hu, Yong Xu, Jun Shen, **AAAI 2026**
+  
+- [Hierarchical Information Aggregation for Incomplete Multimodal Alzheimer's Disease Diagnosis](https://openreview.net/forum?id=P4KjfMrVNU), Chengliang Liu, Yuanxi Que, **Qihao Xu**, Yabo Liu, Jie Wen, Jinghua Wang, Xiaoling Luo, **NeurIPS 2025**
+
+- [Wavelet-based Global-Local Interaction Network with Cross-Attention for Multi-View Diabetic Retinopathy Detection](https://arxiv.org/abs/2503.19329), Yongting Hu, Yuxin Lin, Chengliang Liu, Xiaoling Luo, Xiaoyan Dou, **Qihao Xu**, Yong Xu, **ICME 2025**
+
+- [Like an Ophthalmologist: Dynamic Selection Driven Multi-View Learning for Diabetic Retinopathy Grading](https://doi.org/10.1609/aaai.v39i18.34116), Xiaoling Luo, **Qihao Xu**, Huisi Wu, Chengliang Liu, Zhihui Lai, Linlin Shen, **AAAI 2025**
+
+- [A Lesion-Fusion Neural Network for Multi-View Diabetic Retinopathy Grading](https://doi.org/10.1109/JBHI.2024.3384251), Xiaoling Luo, **Qihao Xu**, Zhihua Wang, Chao Huang, Chengliang Liu, Xiaopeng Jin, Jianguo Zhang, **IEEE JBHI 2025**
 
 # 🎖 Honors and Awards
 None yet.
