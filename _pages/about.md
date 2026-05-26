@@ -23,8 +23,7 @@ I am Qihao Xu, from Ningbo, Zhejiang. I received my B.S. degree in Computer Scie
 - [Qihao Xu dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Qihao Xu dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Qihao Xu dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+None yet.
 
 # 📖 Educations
 - *2025.09 - Present*, Ph.D. student in Computer Science, Harbin Institute of Technology, Shenzhen.  
@@ -32,9 +31,6 @@ I am Qihao Xu, from Ningbo, Zhejiang. I received my B.S. degree in Computer Scie
   Supervisor: [Prof. Yong Xu](https://homepage.hit.edu.cn/xuyong).
 - *2018.09 - 2022.06*, B.S. degree in Computer Science and Technology, Zhejiang University of Finance and Economics.
 
-# 💬 Invited Talks
-- *2021.06*, Qihao Xu dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Qihao Xu dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Academic Activities
+- Conference Program Committee: NeurIPS / AAAI / IJCAI /
+- Journal Reviewer: Pattern Recognition / Information Fusion / IEEE Journal of Biomedical and Health Informatics
