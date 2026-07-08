@@ -30,7 +30,7 @@ I am Qihao Xu, from Ningbo, Zhejiang. I received my B.S. degree in Computer Scie
 
 ## Other Publications
 - [A CNN-injected transformer network with lesion reconstruction for multi-view diabetic retinopathy grading]([https://ojs.aaai.org/index.php/AAAI/article/view/37635](https://www.sciencedirect.com/science/article/abs/pii/S1361841526002471)), Yongting Hu, Haoran Li, **Qihao Xu**, Yuxin Lin, Jiahua Shi, Jun Shen, Yong Xu, Xiaoyan Dou, **MIA 2026** (CCF C)
-- 
+  
 - [Frequency-Aligned Cross-Modal Learning with Top-K Wavelet Fusion and Dynamic Expert Routing for Enhanced Retinal Disease Diagnosis](https://ojs.aaai.org/index.php/AAAI/article/view/37635), Yuxin Lin, Haoran Li, Haoyu Cao, Yongting Hu, **Qihao Xu**, Chengliang Liu, Xiaoling Luo, Zhihao Wu, Yong Xu, Wei Wang, **AAAI 2026** (CCF A)
 
 - [Towards Zero-Shot Diabetic Retinopathy Grading: Learning Generalized Knowledge via Prompt-Driven Matching and Emulating](https://ojs.aaai.org/index.php/AAAI/article/view/37948), Huan Wang, Haoran Li, Yuxin Lin, Huaming Chen, Jun Yan, Lijuan Wang, Jiahua Shi, **Qihao Xu**, Yongting Hu, Yong Xu, Jun Shen, **AAAI 2026** (CCF A)
