@@ -22,7 +22,7 @@ I am Qihao Xu, from Ningbo, Zhejiang. I received my B.S. degree in Computer Scie
 # 📝 Publications 
 
 ## Selected Publications
-- [ProConMV: Provenance-Enabled Conceptual Framework for Interpretable Multi-View Diabetic Retinopathy Diagnosis, Xiaoling Luo, Shuo Yang](https://openreview.net/forum?id=4F4Ziv1d9G), **Qihao Xu(Corresponding Author)**, Jiansong Zhang, Zhuoqin Yang, Zhihui Lai, Linlin Shen, Chengliang Liu, **ICML 2026** (CCF A)
+- [ProConMV: Provenance-Enabled Conceptual Framework for Interpretable Multi-View Diabetic Retinopathy Diagnosis](https://openreview.net/forum?id=4F4Ziv1d9G), Xiaoling Luo, Shuo Yang **Qihao Xu(Corresponding Author)**, Jiansong Zhang, Zhuoqin Yang, Zhihui Lai, Linlin Shen, Chengliang Liu, **ICML 2026** (CCF A)
   
 - [Vision-Language Models Guided Graph Concept Reasoning for Interpretable Diabetic Retinopathy Diagnosis](https://ojs.aaai.org/index.php/AAAI/article/view/39948), **Qihao Xu**, Xiaoling Luo, Yuxin Lin, Chengliang Liu, Yongting Hu, Jinkai Li, Xinheng Lyu, Yong Xu, **AAAI 2026** (CCF A)
   
