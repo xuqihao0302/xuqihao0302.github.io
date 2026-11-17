@@ -32,7 +32,9 @@ I am Qihao Xu, from Ningbo, Zhejiang. I received my B.S. degree in Computer Scie
 - [HACDR-Net: Heterogeneous-Aware Convolutional Network for Diabetic Retinopathy Multi-Lesion Segmentation](https://ojs.aaai.org/index.php/AAAI/article/view/28453), **Qihao Xu**, Xiaoling Luo, Chao Huang, Chengliang Liu, Jie Wen, Jialei Wang, Yong Xu, **AAAI 2024** (CCF A)
 
 ## Other Publications
-- [A CNN-injected transformer network with lesion reconstruction for multi-view diabetic retinopathy grading]([https://ojs.aaai.org/index.php/AAAI/article/view/37635](https://www.sciencedirect.com/science/article/abs/pii/S1361841526002471)), Yongting Hu, Haoran Li, **Qihao Xu**, Yuxin Lin, Jiahua Shi, Jun Shen, Yong Xu, Xiaoyan Dou, **MIA 2026** (CCF C)
+- [A CNN-injected transformer network with lesion reconstruction for multi-view diabetic retinopathy grading](https://www.sciencedirect.com/science/article/abs/pii/S1361841526002471), Yongting Hu, Haoran Li, **Qihao Xu**, Yuxin Lin, Jiahua Shi, Jun Shen, Yong Xu, Xiaoyan Dou, **Medical Image Analysis 2026** (中科院1区TOP)
+  
+- - [From incomplete labels to complete control: Self-supervised mask consistency learning for fundus image generation](https://www.sciencedirect.com/science/article/abs/pii/S0031320326022077), Yongting Hu, Haoran Li, **Qihao Xu**, Yuxin Lin, Jiahua Shi, Jun Shen, Yong Xu, Xiaoyan Dou, **Pattern Recognition 2026** (中科院1区TOP)
   
 - [Frequency-Aligned Cross-Modal Learning with Top-K Wavelet Fusion and Dynamic Expert Routing for Enhanced Retinal Disease Diagnosis](https://ojs.aaai.org/index.php/AAAI/article/view/37635), Yuxin Lin, Haoran Li, Haoyu Cao, Yongting Hu, **Qihao Xu**, Chengliang Liu, Xiaoling Luo, Zhihao Wu, Yong Xu, Wei Wang, **AAAI 2026** (CCF A)
 
@@ -44,7 +46,7 @@ I am Qihao Xu, from Ningbo, Zhejiang. I received my B.S. degree in Computer Scie
 
 - [Like an Ophthalmologist: Dynamic Selection Driven Multi-View Learning for Diabetic Retinopathy Grading](https://doi.org/10.1609/aaai.v39i18.34116), Xiaoling Luo, **Qihao Xu**, Huisi Wu, Chengliang Liu, Zhihui Lai, Linlin Shen, **AAAI 2025** (CCF A)
 
-- [A Lesion-Fusion Neural Network for Multi-View Diabetic Retinopathy Grading](https://doi.org/10.1109/JBHI.2024.3384251), Xiaoling Luo, **Qihao Xu**, Zhihua Wang, Chao Huang, Chengliang Liu, Xiaopeng Jin, Jianguo Zhang, **IEEE JBHI 2025** (CCF C)
+- [A Lesion-Fusion Neural Network for Multi-View Diabetic Retinopathy Grading](https://doi.org/10.1109/JBHI.2024.3384251), Xiaoling Luo, **Qihao Xu**, Zhihua Wang, Chao Huang, Chengliang Liu, Xiaopeng Jin, Jianguo Zhang, **IEEE Journal of Biomedical and Health Informatics 2025** (中科院2区TOP)
 
 # 🎖 Honors and Awards
 None yet.
